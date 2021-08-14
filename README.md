@@ -1,14 +1,6 @@
-# Angular 9/8 Example and Tutorial: Build a Calculator Application
+# Angular Calculator Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
-
-You can read the following tutorials for more information about how to build this application from scratch:
-
-- [Angular 9/8 Example and Tutorial: Build a Calculator Application](https://www.techiediaries.com/angular/angular-9-tutorial-and-example/)
-
-- [Angular 8 Tutorial: Build your First Angular App](https://www.techiediaries.com/angular-8-tutorial-build-first-angular-calculator-app)
-
-- [Angular 8 Data (Event & Property) Binding Tutorial: Build your First Angular App](https://www.techiediaries.com/angular-data-event-property-binding)
 
 ![Angular 8 Example Calculator](https://www.diigo.com/file/image/bbccosoazobaoooccdzdrocqebd/Ngcalculator.jpg)
 
